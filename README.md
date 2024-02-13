@@ -8,5 +8,5 @@ This repository contains my final project for the CS 355 Internet and Web Techno
 - Low-level HTTP Communication: By avoiding external modules, I delved deep into Node.js's core libraries, enhancing my proficiency in HTTP/HTTPS protocols, JSON manipulation, and the foundational concepts of asynchronous 
  programming.
 - Educational Focus: The project was evaluated based on my grasp of HTTPS, JSON, and a fundamental understanding of Node.js, rather than the practicality or design of the application.
-- 
+
 This project is a testament to my technical growth and understanding of key web technologies, achieved through hands-on experience via academic challenges.
